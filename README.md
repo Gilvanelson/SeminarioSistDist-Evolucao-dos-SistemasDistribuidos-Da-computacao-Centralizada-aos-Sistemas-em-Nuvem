@@ -8,7 +8,7 @@ Introdução Breve visão geral da evolução dos sistemas de computação, come
 
 🚀 Objetivo Este projeto visa documentar a transformação contínua da computação e como a busca por maior eficiência, escalabilidade e acessibilidade impulsionou inovações em diversos setores, como comércio, saúde e educação.
 
-🧑‍💼 Equipe Scrum Master: Gilvanelson Nascimento - 01395387 Gerente de Configuração & Analista de Dados: Diego Lima - 01401412 Analista de Desenvolvedor: Alesson Calaça - 01378540
+🧑‍💼 Equipe Scrum Master: Gilvanelson Nascimento - 01395387. Gerente de Configuração & Analista de Dados: Diego Lima - 01401412. Analista Desenvolvedor: Alesson Calaça - 01378540. Analista desenvolvedor: Luiz Pereira - 01170935.
 
 📅 Conclusão A história dos sistemas distribuídos é uma prova de como a tecnologia evolui para atender às necessidades crescentes de processamento e distribuição de informações. Do mainframe à nuvem, cada etapa representa um avanço significativo na maneira como interagimos com a tecnologia.
 
